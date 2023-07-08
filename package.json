@@ -4,9 +4,10 @@
   "description": "Demo as presented during recap 2023",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "npm run build --workspace=fundamental-library-styles-demo",
+    "start": "npm run start --workspace=recap-demo"
   },
   "author": "",
-  "workspaces": "apps",
+  "workspaces": ["apps/*"],
   "license": "ISC"
 }
