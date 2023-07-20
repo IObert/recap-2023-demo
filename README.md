@@ -1,6 +1,6 @@
 # Demo Code
 
-This is the code as I've showed it during recap 2023. I'll link the recording here once it becomes available (feel free to ping me if I forget this).
+This is the code as I've showed it during reCAP 2023. The recording of my session is [available on the reCAP event page over on broadcast.sap.com](https://broadcast.sap.com/replay/23707_reCAP2023), starting at 5:53:34.
 
 The UI code is based on [this blog post](https://medium.com/@marius.obert/getting-started-with-fundamental-library-styles-in-2023-a4faa28575da).
 
